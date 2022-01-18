@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Иван Лобко](https://up.htmlacademy.ru/htmlcss/33/user/167267).
-* Наставник: `Неизвестно`.
+* Наставник: [Тимур Хамитов](https://htmlacademy.ru/profile/ricomen).
 
 ---
 
